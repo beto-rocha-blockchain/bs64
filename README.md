@@ -1,8 +1,20 @@
-# bs64
+## 🚀 bs64
 
-> Utilitários simples para codificação e decodificação em Base64 com Node.js.
+🔐 Codifique e decodifique dados com **Base58** de forma simples e moderna usando **Node.js**
+
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?logo=node.js)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![bs64](https://img.shields.io/badge/bs64-Encoding-blue)
+
+---
+
+## 🎯 Objetivo
 
 Este projeto tem como objetivo fornecer ferramentas básicas para codificar e decodificar dados em Base64, usando apenas Node.js puro. Ele pode ser utilizado como referência para estudos, criação de ferramentas CLI ou como base para aplicações mais robustas.
+
+## 🧠 O que é Base64?
+
+Base64 é um sistema de codificação de dados que converte informações binárias (como arquivos, imagens, ou textos) em uma sequência de caracteres ASCII (letras, números e alguns símbolos).
 
 ## 📦 Instalação
 
