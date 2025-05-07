@@ -1,0 +1,21 @@
+{
+  "name": "bs64",
+  "version": "1.0.0",
+  "description": "Utilitários simples de codificação e decodificação Base64 via terminal (Node.js)",
+  "main": "src/encode.js",
+  "scripts": {
+    "encode-text": "node src/encode.js text",
+    "encode-file": "node src/encode.js file",
+    "decode": "node src/decode.js"
+  },
+  "keywords": [
+    "base64",
+    "cli",
+    "encoding",
+    "decoding",
+    "nodejs",
+    "portfólio"
+  ],
+  "author": "Roberto Pimentel",
+  "license": "MIT"
+}
